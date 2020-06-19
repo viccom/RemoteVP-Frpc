@@ -1,0 +1,10 @@
+vnet
+vserial
+venv
+logs
+.idea
+_package.cmd
+_compile_to_exe.cmd
+_install.ahk
+
+
