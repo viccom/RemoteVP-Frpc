@@ -1,5 +1,5 @@
-vnet
-vserial
+vnet/
+vserial/
 venv
 logs
 .idea
