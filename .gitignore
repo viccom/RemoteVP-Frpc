@@ -6,5 +6,6 @@ logs
 _package.cmd
 _compile_to_exe.cmd
 _install.ahk
+RemoteVP-Frpc.spec
 
 
